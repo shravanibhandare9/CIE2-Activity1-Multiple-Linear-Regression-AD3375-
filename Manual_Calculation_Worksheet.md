@@ -5,15 +5,6 @@
 
 ---
 
-## Student Details
-- **Student Name:** `Shrawani Bhandare`
-- **Roll Number:** `AD3375`
-- **PRN:** `[Your PRN Number]`
-- **Division:** `[A / B / C]`
-- **Evaluation Profile:** [https://github.com/complexiota](https://github.com/complexiota)
-
----
-
 ## 1. Objective and Problem Definition
 The objective of this worksheet is to perform a step-by-step manual derivation of the **Ordinary Least Squares (OLS) Multiple Linear Regression** model for a small sample of observations using the matrix normal equations:
 
