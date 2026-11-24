@@ -1,9 +1,4 @@
 # Activity 1: Manual Calculation Worksheet
-**Course:** Regression and Classification Algorithms | **Class:** T.Y. B.Tech (AI & DS)  
-**Institution:** Zeal College of Engineering and Research, Narhe, Pune  
-**Record No.:** ZCOER-ACAD/R/16K | **Academic Year:** 2026–27 | **Marks:** 5  
-
----
 
 ## 1. Objective and Problem Definition
 The objective of this worksheet is to perform a step-by-step manual derivation of the **Ordinary Least Squares (OLS) Multiple Linear Regression** model for a small sample of observations using the matrix normal equations:
