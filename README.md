@@ -114,33 +114,6 @@ For a planned quarterly campaign within the historical range:
 3. **Extrapolation Limits:** Predictions must not be made outside the observed budget boundaries (e.g., $\text{TV} > \$300\text{k}$).
 4. **Causation vs Correlation:** Historical data captures observational correlation; controlled experimentation is necessary before claiming causal attribution.
 
----
 
-## 10. Repository Structure
-```text
-├── Activity_1_Multiple_Linear_Regression.ipynb   # Executable Jupyter Notebook with all outputs
-├── Advertising.csv                               # Cleaned dataset (200 records)
-├── Manual_Calculation_Worksheet.md               # Step-by-step matrix derivation & verification
-├── Activity_1_Comprehensive_Report.md            # Detailed 34-section technical report
-├── requirements.txt                              # Environment dependencies
-├── .gitignore                                    # Git ignore rules
-└── README.md                                     # Main project documentation (this file)
-```
-
----
-
-## 11. Instructions to Run
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/[your-repo-name].git
-cd [your-repo-name]
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter Lab / Notebook
-jupyter lab
-```
-Or open `Activity_1_Multiple_Linear_Regression.ipynb` directly in [Google Colab](https://colab.research.google.com).
 
 
